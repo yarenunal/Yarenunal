@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yaren ÜNAL
-- 👀 I’m interested in playing violin
+- 👀 I’m interested in violin
 - 🌱 I’m currently learning dart
   
 
