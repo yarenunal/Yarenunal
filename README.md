@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yaren ÜNAL
-- 👀 I’m interested in violin
+- 👀 I’m interested in mobile develop
 - 🌱 I’m currently learning swift
   
 ![Yarenunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yarenunal&theme=vue-dark&show_icons=true)
