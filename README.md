@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yaren ÜNAL
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning swift
+- 👀 I’m interested in mobile and AI development
   
 
 <!---
