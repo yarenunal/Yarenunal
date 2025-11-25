@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning swift
   
-![Yarenunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yarenunal&theme=vue-dark&show_icons=true)
+(https://github-readme-stats.vercel.app/api?username=Yarenunal&theme=vue-dark&show_icons=true)
 
 <!---
 Yarenunal/Yarenunal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
