@@ -35,6 +35,6 @@ Git | Docker | Postman | MySQL | PostgreSQL | Figma
 
 
 ## Contributions
-![snake gif](https://github.com/yarenunal/yarenunal/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/yarenunal/yarenunal/output/github-contribution-grid-snake.svg)
 
 
