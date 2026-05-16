@@ -29,12 +29,12 @@ Git | Docker | Postman | MySQL | PostgreSQL | Figma
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Yarenunal&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=yarenunal&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yarenunal&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yarenunal&layout=compact&theme=tokyonight)
 
 
 ## Contributions
-![snake gif](https://github.com/Yarenunal/Yarenunal/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/yarenunal/yarenunal/blob/output/github-contribution-grid-snake.svg)
 
 
