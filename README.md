@@ -23,3 +23,7 @@ Python | TensorFlow | Keras | Pandas | Scikit-learn
 ### Tools & Databases
 Git | Docker | Postman | MySQL | PostgreSQL | Figma
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=swift,flutter,firebase,python,tensorflow,flask,fastapi,nodejs,docker,mysql,postgres,git,figma" />
+</p>
+
