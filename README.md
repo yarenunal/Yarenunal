@@ -20,6 +20,6 @@
 
 ## GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=yarenunal&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="165" />
+<img src="https://github-readme-stats-alpha.vercel.app/api?username=yarenunal&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="165" />
 
-
+![snake](https://raw.githubusercontent.com/yarenunal/yarenunal/output/github-contribution-grid-snake.svg)
