@@ -1,40 +1,25 @@
-# Hi there, I'm Yaren Ünal 👋
+# Hi, I'm Yaren Ünal 👋
 
-📱 iOS Developer focused on building scalable mobile applications with Swift & SwiftUI  
+**iOS Developer** · Swift & SwiftUI · AI & audio apps
 
-🤖 Currently exploring AI-powered applications, audio processing, and machine learning  
-
-🎓 Computer Engineering Graduate  
-
-💡 Interested in mobile development, AI, and product building
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaren-%C3%BCnal-372b52264)
 
 ## Tech Stack
 
-### Mobile Development
-Swift | SwiftUI | UIKit | CoreData | Firebase | Flutter
+**Mobile**  
+<img src="https://skillicons.dev/icons?i=swift,flutter,firebase" />
 
-### Backend Development
-Node.js | FastAPI | Flask | REST APIs
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask" />
 
-### AI / Machine Learning
-Python | TensorFlow | Keras | Pandas | Scikit-learn
+**AI / ML**  
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
 
-### Tools & Databases
-Git | Docker | Postman | MySQL | PostgreSQL | Figma
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,docker,mysql,postgres,figma,postman" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,flutter,firebase,python,tensorflow,flask,fastapi,nodejs,docker,mysql,postgres,git,figma" />
-</p>
+## GitHub
 
-## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=yarenunal&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="165" />
 
-![](https://github-readme-stats.vercel.app/api?username=yarenunal&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yarenunal&layout=compact&theme=tokyonight)
-
-
-## Contributions
-![snake gif](https://raw.githubusercontent.com/yarenunal/yarenunal/output/github-contribution-grid-snake.svg)
-
-
+![snake](https://raw.githubusercontent.com/yarenunal/yarenunal/output/github-contribution-grid-snake.svg)
