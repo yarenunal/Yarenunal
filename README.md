@@ -2,6 +2,8 @@
 
 **iOS Developer** · Swift & SwiftUI · AI & audio apps
 
+"https://yarenunal.github.io/blog/"
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaren-%C3%BCnal-372b52264)
 
 ## Tech Stack
