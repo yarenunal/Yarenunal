@@ -5,6 +5,7 @@
 🌐 **Portfolio & Blog:** [yarenunal.github.io/blog](https://yarenunal.github.io/blog/)  
 💼 **LinkedIn:** [Yaren Ünal](https://www.linkedin.com/in/yaren-%C3%BCnal-372b52264)  
 📱 **App Store:** [MyWordsApp](https://apps.apple.com/tr/app/mywordsapp/id6785971924?l=tr)
+✍️ **Medium:** [Yaren Ünal](https://medium.com/@yareunal16)
 
 ## Tech Stack
 
