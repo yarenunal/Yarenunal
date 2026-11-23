@@ -2,8 +2,8 @@
 
 **Computer Engineer | iOS & Full Stack Developer | AI-Integrated Applications**
 
-🌐 **Portfolio & Blog:** [yarenunal.github.io/blog](https://yarenunal.github.io/blog/)  
-✍️ **Medium:** [Yaren Ünal](https://medium.com/@yareunal16) 
+🌐 **Portfolio & Blog:** [yarenunal.github.io/blog](https://yarenunal.github.io/blog/)   
+✍️ **Medium:** [Yaren Ünal](https://medium.com/@yareunal16)   
 💼 **LinkedIn:** [Yaren Ünal](https://www.linkedin.com/in/yaren-%C3%BCnal-372b52264)  
 📱 **App Store:** [MyWordsApp](https://apps.apple.com/tr/app/mywordsapp/id6785971924?l=tr)
 
